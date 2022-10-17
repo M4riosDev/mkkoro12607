@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Makis
+### Hi there 👋, My Name is Marios
 ![](https://cdn.discordapp.com/attachments/947057898842902548/1031579542252441670/a_e9a715fff56f2af42a7bf0fda55fb120.gif)
 
 I am Marios From Greece,and i do content on Developent
