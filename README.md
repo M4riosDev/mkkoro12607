@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Makis
-![](https://cdn.discordapp.com/attachments/900346018774790144/915230812524388442/d3aa38b40948b7ca8c7ce2873e85fe01.gif)
+![](https://cdn.discordapp.com/attachments/947057898842902548/1031579542252441670/a_e9a715fff56f2af42a7bf0fda55fb120.gif)
 
 I am Marios From Greece,and i do content on Developent
 
